@@ -1,5 +1,5 @@
 # proyecto arduino y lcd
-arduino
+#arduino
 
 #circuito virtual
 <img src="ll.png">
