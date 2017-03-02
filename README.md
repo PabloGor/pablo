@@ -1,9 +1,9 @@
 # proyecto arduino y lcd
 arduino
 
-circuito virtual
+#circuito virtual
 <img src="ll.png">
 
-Codigo
+#Codigo
 
 <img src="Captura.PNG">
